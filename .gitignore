@@ -1,0 +1,11 @@
+# RStudio project files
+.Rproj.user/
+.Rproj
+.Rapp.history
+
+# Environment files
+.Rhistory
+.RData
+*.DS_Store
+
+data/*
